@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: bas
+    uniqueID: 3030167763
+    locked: 0
+  - name: huvud
+    uniqueID: 1978297159
+    locked: 0
