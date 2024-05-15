@@ -28351,6 +28351,7 @@ Transform:
   m_PrefabInstance: {fileID: 1678577848}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1680747387
 GameObject:
   m_ObjectHideFlags: 0
@@ -28402,6 +28403,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 0
   targetingRange: 4
+=======
+>>>>>>> 98733f37ee6306c8107b3c7826661da7b27c2878
 =======
 >>>>>>> 98733f37ee6306c8107b3c7826661da7b27c2878
 --- !u!1001 &1683349054
@@ -36620,7 +36623,11 @@ Transform:
   m_PrefabInstance: {fileID: 2147473594}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &6187506781085521546
+=======
+--- !u!1001 &550148778261019696
+>>>>>>> 98733f37ee6306c8107b3c7826661da7b27c2878
 =======
 --- !u!1001 &550148778261019696
 >>>>>>> 98733f37ee6306c8107b3c7826661da7b27c2878
@@ -36631,6 +36638,7 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 3736948555217256934, guid: 791d7219eae00a546955bc173b97dc84, type: 3}
       propertyPath: m_Name
@@ -36674,6 +36682,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5719420966112997495, guid: 791d7219eae00a546955bc173b97dc84, type: 3}
 =======
+=======
+>>>>>>> 98733f37ee6306c8107b3c7826661da7b27c2878
     - target: {fileID: 405115363040701248, guid: 1ce9a2a3682dc144b93f581fe14ef90a, type: 3}
       propertyPath: m_Name
       value: Tower
@@ -36715,6 +36725,9 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2882867746205156540, guid: 1ce9a2a3682dc144b93f581fe14ef90a, type: 3}
+<<<<<<< HEAD
+>>>>>>> 98733f37ee6306c8107b3c7826661da7b27c2878
+=======
 >>>>>>> 98733f37ee6306c8107b3c7826661da7b27c2878
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
@@ -36724,7 +36737,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_SourcePrefab: {fileID: 100100000, guid: 791d7219eae00a546955bc173b97dc84, type: 3}
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: 1ce9a2a3682dc144b93f581fe14ef90a, type: 3}
+>>>>>>> 98733f37ee6306c8107b3c7826661da7b27c2878
 =======
   m_SourcePrefab: {fileID: 100100000, guid: 1ce9a2a3682dc144b93f581fe14ef90a, type: 3}
 >>>>>>> 98733f37ee6306c8107b3c7826661da7b27c2878
@@ -36737,8 +36754,13 @@ SceneRoots:
   - {fileID: 1441106338}
   - {fileID: 1170599109}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 6187506781085521546}
   - {fileID: 1680747388}
+=======
+  - {fileID: 459563067}
+  - {fileID: 550148778261019696}
+>>>>>>> 98733f37ee6306c8107b3c7826661da7b27c2878
 =======
   - {fileID: 459563067}
   - {fileID: 550148778261019696}
